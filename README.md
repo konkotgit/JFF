@@ -25,5 +25,5 @@ Some ideas were taken from the projects:
 ![JFF Mainboard](/photos/jff_r_1_1_01_s.jpg)
 ![JFF Memtest](/photos/jff_rev_1_0_02.jpg)
 
-### YouTube Video - Testing revison 1.0
+### YouTube Video - Testing revision 1.0
 [![YouTube link](https://img.youtube.com/vi/9GUijLo4e2o/0.jpg)](https://www.youtube.com/watch?v=9GUijLo4e2o)
