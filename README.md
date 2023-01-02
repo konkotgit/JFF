@@ -13,18 +13,18 @@ The goal was to build as simple as possible but fully functional MSX 1 compatibl
 * Two joysticks ports
 * Casette port
 
-##Compatible static RAM:
-###U15 - RAM
+## Compatible static RAM:
+### U15 - RAM
 
 * HM628128BLP-7 (Hitachi)
 * UM621024C-70LL (UMC Corporation)
 * D431000-70LL (NEC)
 
-###U7 - Video RAM
+### U7 - Video RAM
 
 * HM62256ALP-10 (Hitachi)
 
-##PPI 8255
+## PPI 8255
 
 * D8255AC-2 (NEC)
 * CP82C55A-5 (INTERSIL)
