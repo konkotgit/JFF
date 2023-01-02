@@ -12,9 +12,27 @@ The goal was to build as simple as possible but fully functional MSX 1 compatibl
 * Two cartridge slots
 * Two joysticks ports
 * Casette port
+
+##Compatible static RAM:
+###U15 - RAM
+
+* HM628128BLP-7 (Hitachi)
+* UM621024C-70LL (UMC Corporation)
+* D431000-70LL (NEC)
+
+###U7 - Video RAM
+
+* HM62256ALP-10 (Hitachi)
+
+##PPI 8255
+
+* D8255AC-2 (NEC)
+* CP82C55A-5 (INTERSIL)
+
 ## Keyboard
 JFF has a connector fully compatible with the keyboard from the excellent project [Omega Home Computer](https://github.com/skiselev/omega "Omega Home Computer") by Sergey Kiselev.
-
+## PSU
+Use a good quality 5V 2A power supply.
 ## Revision 1.1 has been built and tested.
 
 Some ideas were taken from the projects:
