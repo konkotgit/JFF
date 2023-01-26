@@ -29,6 +29,15 @@ The goal was to build as simple as possible but fully functional MSX 1 compatibl
 * D8255AC-2 (NEC)
 * CP82C55A-5 (INTERSIL)
 
+## PSG
+
+* AY-3-8910 (General Instrument)
+* YM2149F (Yamaha)
+* WF19054 (Winbond)
+* 95101 (JFC)
+* KC89C72 (File)
+* T7766A (Toshiba)
+
 ## Keyboard
 JFF has a connector fully compatible with the keyboard from the excellent project [Omega Home Computer](https://github.com/skiselev/omega "Omega Home Computer") by Sergey Kiselev.
 ## PSU
