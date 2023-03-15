@@ -39,7 +39,7 @@ The goal was to build as simple as possible but fully functional MSX 1 compatibl
 * T7766A (Toshiba)
 
 ## Keyboard
-JFF has a connector fully compatible with the keyboard from the excellent project [Omega Home Computer](https://github.com/skiselev/omega "Omega Home Computer") by Sergey Kiselev.
+Details about [Keyboard](https://github.com/konkotgit/JFF/tree/main/keyboard "Keyboard")
 ## PSU
 Use a good quality 5V 2A power supply.
 ## Revision 1.1 has been built and tested.
@@ -50,6 +50,7 @@ Some ideas were taken from the projects:
 * [SRAM Replacement for TMS99x8 VRAM](https://retrobrewcomputers.org/n8vem-pbwiki-archive/0/35845334/48860720/33053543/SRAM%20Replacement%20for%20TMS99x8%20VRAM.pdf "SRAM Replacement for TMS99x8 VRAM") by Tom LeMense
 
 ![JFF Mainboard](/photos/jff_r_1_1_01_s.jpg)
+![JFF Keyboard](/photos/jff_keyboard_03s.jpg)
 ![JFF Memtest](/photos/jff_rev_1_0_02.jpg)
 
 ### YouTube Video - Testing revision 1.0
