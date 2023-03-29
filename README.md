@@ -23,6 +23,8 @@ The goal was to build as simple as possible but fully functional MSX 1 compatibl
 ### U7 - Video RAM
 
 * HM62256ALP-10 (Hitachi)
+* BS62LV256PCP70 (BSI Brilliance Semiconductor)
+* UT62256CPC-70L (Utron)
 
 ## PPI 8255
 
