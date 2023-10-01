@@ -41,6 +41,8 @@ The goal was to build as simple as possible but fully functional MSX 1 compatibl
 * KC89C72 (File)
 * T7766A (Toshiba)
 
+## HDMI Adapter
+Details about [HDMI Adapter](https://github.com/konkotgit/JFF/tree/main/hdmi_adapter "HDMI Adapter")
 ## Keyboard
 Details about [Keyboard](https://github.com/konkotgit/JFF/tree/main/keyboard "Keyboard")
 ## PSU
